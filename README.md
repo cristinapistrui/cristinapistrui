@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristinapistrui
-- 👀 I’m interested in frontend developing, UI/UX, graphic design 
+- 👀 I’m interested in frontend developing, UI/UX, architectural graphic design 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
 
